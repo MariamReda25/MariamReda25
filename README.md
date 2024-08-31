@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋 I'm Mariam Reda</h1>
- <h1 align="center"> Welcome to my Technical Account 👷 </h1>
+ <h1 > Welcome to my Technical Account 👷 </h1>
 
 <br>🚀 About Me ✨ </br>
 <br> 🎓 Senior Student: I’m a senior syudent at Benha University, Computer Departement. </br>
