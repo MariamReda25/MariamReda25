@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Mariam Reda</h1>
 
-<br>🚀 About Me </br>
+<br>🚀 About Me ✨ </br>
 <br> 🎓 Senior Student: I’m a senior syudent at Benha University, Computer Departement. </br>
 <br> 🚘 Embedded Systems Specialist: I’m deeply involved in the world of embedded systems, with a particular interest in automotive technologies. My hands-on experience and projects have given me a solid understanding of how to integrate software and hardware, allowing me to develop practical solutions that enhance the functionality and performance of various systems.</h3> </br>
 
