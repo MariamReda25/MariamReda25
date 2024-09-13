@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **marimreda777@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/10pDnbdqyTJNa-4dHSKxuZ_RqtvhzFxXw/view?usp=drive_link](https://drive.google.com/file/d/10pDnbdqyTJNa-4dHSKxuZ_RqtvhzFxXw/view?usp=drive_link)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1g0zkfomtirS556KFHzmmf0pZVmcLbVv5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 Linkedin Account: 
