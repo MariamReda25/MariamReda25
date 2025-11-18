@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mariam Reda Ibarhim
-<hr> 
-Welcome to my Page! 
+ 
+ Welcome to my Page! 
 
 I'm mariam reda a passionate frontend developer from ***Cairo,Egypt***
 
