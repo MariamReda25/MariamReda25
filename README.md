@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mariam Reda Ibarhim</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+# Hi 👋, I'm Mariam Reda Ibarhim
+<hr> 
+Welcome to my Page! 
+
+I'm mariam reda a passionate frontend developer from ***Cairo,Egyp***
+<h3 align="center"> from Egypt</h3>
 
 - 📫 How to reach me **marimreda777@gmail.com**
 
